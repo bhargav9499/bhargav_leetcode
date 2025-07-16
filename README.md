@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhargav9499/bhargav_leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bhargav9499/bhargav_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bhargav9499/bhargav_leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhargav9499/bhargav_leetcode/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhargav9499/bhargav_leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
